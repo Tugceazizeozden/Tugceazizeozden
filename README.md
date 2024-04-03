@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tuğçe Özden</h1>
+[![Anurag'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)<h1 align="center">Hi 👋, I'm Tuğçe Özden</h1>
 <h3 align="center">A passionate Full-Stack developer from Turkey</h3>
 
 <h3 align="left">Connect with me:</h3>
