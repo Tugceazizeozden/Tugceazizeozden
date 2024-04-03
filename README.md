@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tuğçe Özden</h1>
 <h3 align="center">A passionate Full-Stack developer from Turkey</h3>
-[![Tuğçe Özden  GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tugceazizeozden/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tugceazizeozden/" height="30" width="40" /></a>
